@@ -4,7 +4,7 @@
 
 **Mechanical Engineering @ TU Munich &nbsp;|&nbsp; Currently writing my BA thesis under Prof. Lienkamp at TUM**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-nikol/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mjbinghamnikol)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxBingham)
 
 </div>
@@ -76,6 +76,6 @@ interests:
 
 <img src="https://komarev.com/ghpvc/?username=MaxBingham&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
-*Currently building the future of autonomous driving, one point cloud at a time.*
+*Currently working on autonomous driving*
 
 </div>
