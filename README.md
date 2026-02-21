@@ -2,7 +2,7 @@
 
 # Hey, I'm Max &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**Mechanical Engineering @ TU Munich &nbsp;|&nbsp; Autonomous Vehicles Researcher**
+**Mechanical Engineering @ TU Munich &nbsp;|&nbsp; Currently writing my BA thesis under Prof. Lienkamp at TUM**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-nikol/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxBingham)
