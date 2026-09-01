@@ -1,13 +1,14 @@
 # Max Bingham Nikol
 
-Mechanical Engineering student at the Technical University of Munich focused
-on robotics, autonomous vehicles, and LiDAR perception.
+Graduate student in **Robotics, Cognition, Intelligence** at the Technical
+University of Munich, currently studying at **UC Berkeley**.
 
 Research Assistant at the TUM Chair of Automotive Technology, working on
-autonomous-vehicle systems. My bachelor's thesis investigates how simulated
+autonomous-vehicle systems. My bachelor's thesis investigated how simulated
 weather faults affect LiDAR odometry.
 
-[LinkedIn](https://www.linkedin.com/in/mjbinghamnikol) · Munich, Germany
+**US citizen** · Currently based in Berkeley, California ·
+[LinkedIn](https://www.linkedin.com/in/mjbinghamnikol)
 
 ---
 
