@@ -1,7 +1,7 @@
 # Max Bingham Nikol
 
 Graduate student in **Robotics, Cognition, Intelligence** at the Technical
-University of Munich, currently studying at **UC Berkeley**.
+University of Munich
 
 Research Assistant at the TUM Chair of Automotive Technology, working on
 autonomous-vehicle systems. My bachelor's thesis investigated how simulated
